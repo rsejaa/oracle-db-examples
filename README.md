@@ -1,5 +1,5 @@
 # oracle-db-examples
-This repository stores a variety of examples demonstrating how to use the Oracle Database. 
+This repository stores a variety of examples demonstrating the way and how to use the Oracle Database. 
 
 | Repo/Folder name  | Description |
 | ------------- | ------------- |
